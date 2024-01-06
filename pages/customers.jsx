@@ -4,7 +4,7 @@ import { data } from '@/data/data'
 
 const customers = () => {
   return (
-    <div className=' min-h-screen bg-[#34c0eb]'>
+    <div className=' min-h-screen bg-gray-200'>
         <div className='flex justify-between px-4 pt-4'>
             <h2 className=' text-2xl font-bold'>Customers</h2>
             <h2 className=' font-bold'>Welcome Back, Admin</h2>

@@ -7,7 +7,7 @@ import TopCards from "@/components/TopCards";
 
 export default function Home() {
   return (
-    <main className="bg-[#34c0eb] min-h-screen">
+    <main className="bg-gray-200 min-h-screen">
       <Header />
       <TopCards />
       <div className=" p-4 grid md:grid-cols-3 grid-cols-1 gap-4">
